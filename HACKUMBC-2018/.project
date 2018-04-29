@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>HACKUMBC-2018</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/02 DJ Khaled ft various All I Do Is Win (Remix).mp3</name>
+			<type>1</type>
+			<locationURI>PROJECT_LOC/music/02%20DJ%20Khaled%20ft%20various%20All%20I%20Do%20Is%20Win%20(Remix).mp3</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
